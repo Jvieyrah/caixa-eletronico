@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: Teste dos métodos da classe PessoaCliente
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 0.009 s <<< FAILURE! - in Teste dos métodos da classe PessoaCliente
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarIdContaEspecificaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarIdContaEspecificaTest(PessoaClienteTest.java:35)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarSaldoContaEspecificaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarSaldoContaEspecificaTest(PessoaClienteTest.java:27)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.adicionarTransacaoContaEspecificaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.adicionarTransacaoContaEspecificaTest(PessoaClienteTest.java:49)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.validarSenhaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.validarSenhaTest(PessoaClienteTest.java:56)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.construtorTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.construtorTest(PessoaClienteTest.java:13)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.adicionarContaTestRetornaNumeroDeContasTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.adicionarContaTestRetornaNumeroDeContasTest(PessoaClienteTest.java:20)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarResumoContasTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarResumoContasTest(PessoaClienteTest.java:63)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarExtratoContaEspecificaTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.retornarExtratoContaEspecificaTest(PessoaClienteTest.java:42)
+
+com.trybe.acc.java.caixaeletronico.PessoaClienteTest.getCpfTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.PessoaClienteTest.getCpfTest(PessoaClienteTest.java:71)
+

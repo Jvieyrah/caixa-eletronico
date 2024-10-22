@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: Testes para a classe Banco
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in Testes para a classe Banco
+com.trybe.acc.java.caixaeletronico.BancoTest.adicionarPessoaClienteTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.BancoTest.adicionarPessoaClienteTest(BancoTest.java:19)
+
+com.trybe.acc.java.caixaeletronico.BancoTest.gerarNumeroNovaContaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.BancoTest.gerarNumeroNovaContaTest(BancoTest.java:13)
+
+com.trybe.acc.java.caixaeletronico.BancoTest.pessoaClienteLoginTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.BancoTest.pessoaClienteLoginTest(BancoTest.java:26)
+
+com.trybe.acc.java.caixaeletronico.BancoTest.depositarTestTransferirFundosTestmostrarExtratoTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.BancoTest.depositarTestTransferirFundosTestmostrarExtratoTest(BancoTest.java:33)
+
+com.trybe.acc.java.caixaeletronico.BancoTest.depositarTestSacarTestMostrarExtratoTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.BancoTest.depositarTestSacarTestMostrarExtratoTest(BancoTest.java:40)
+

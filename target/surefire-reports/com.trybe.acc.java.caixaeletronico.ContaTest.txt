@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Teste da classe Conta
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 0.05 s <<< FAILURE! - in Teste da classe Conta
+com.trybe.acc.java.caixaeletronico.ContaTest.retornarResumoContaTest  Time elapsed: 0.03 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.retornarResumoContaTest(ContaTest.java:26)
+
+com.trybe.acc.java.caixaeletronico.ContaTest.getIdContaTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.getIdContaTest(ContaTest.java:40)
+
+com.trybe.acc.java.caixaeletronico.ContaTest.adicionarTransacaoTestRetornarSaldoTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.adicionarTransacaoTestRetornarSaldoTest(ContaTest.java:19)
+
+com.trybe.acc.java.caixaeletronico.ContaTest.construtorTest  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.construtorTest(ContaTest.java:13)
+
+com.trybe.acc.java.caixaeletronico.ContaTest.getPessoaClienteTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.getPessoaClienteTest(ContaTest.java:47)
+
+com.trybe.acc.java.caixaeletronico.ContaTest.retornarExtratoTest  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Não implementado
+	at com.trybe.acc.java.caixaeletronico.ContaTest.retornarExtratoTest(ContaTest.java:33)
+

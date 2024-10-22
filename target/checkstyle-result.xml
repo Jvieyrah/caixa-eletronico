@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/Transacao.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/Banco.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/PessoaCliente.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/XmlParser.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/CaixaEletronico.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/Conta.java">
+</file>
+</checkstyle>
